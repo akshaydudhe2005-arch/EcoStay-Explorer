@@ -1,0 +1,8 @@
+import './Footer.css';
+export default function Footer() {
+  return (
+    <footer className="footer">
+      <p>&copy; 2026 EcoStay Explorer. Built for TBI Internship.</p>
+    </footer>
+  );
+}

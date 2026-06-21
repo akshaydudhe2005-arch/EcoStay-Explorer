@@ -1,0 +1,14 @@
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #15803d; /* Green color */
+  color: white;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
