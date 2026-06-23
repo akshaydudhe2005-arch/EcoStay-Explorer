@@ -18,3 +18,23 @@ Styling: Tailwind CSS
 Routing: React Router DOM
 
 Development Tools: Git, GitHub, VS Code
+# EcoStay Explorer - Week 4 Deliverables
+
+This project is a full-stack application designed for sustainable hospitality management.
+
+## Project Structure
+- **/frontend**: Next.js application built with React, tracking environmental metrics.
+- **/backend**: Python API (FastAPI/Flask) managing reservation data.
+
+## Prerequisites
+- Python 3.x
+- Node.js (v18+)
+- Postman (for API testing)
+
+## How to Run
+### 1. Start the Backend
+```bash
+cd backend
+# Install dependencies if needed
+pip install -r requirements.txt
+python app.py
